@@ -1,4 +1,4 @@
-x = input("What Is Your Name? \n\n")
+x = input("\n\n\nYour Name : ")
 print("\n")
 for a in x:
 
